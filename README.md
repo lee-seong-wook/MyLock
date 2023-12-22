@@ -1,6 +1,6 @@
 # MyLock
 
-<img width="500" alt="image" src="https://github.com/lee-seong-wook/My_lock/assets/130055880/183b9414-cb1c-4102-97b7-c024c3bd94e7">
+<img width="500" alt="image" src="https://github.com/lee-seong-wook/MyLock/assets/130055880/8f207969-70e9-4d09-b557-f384f075e55d">
 
 ## 팀 소개
 
