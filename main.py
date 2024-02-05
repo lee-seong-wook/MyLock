@@ -27,7 +27,7 @@ C3 = 20
 C4 = 21
 
 #사용할 기본변수
-pinRELAY = 18 #도어락 전압 인가핀
+pinRELAY = 18 #도어락 전압 인가핀 (5v 전압)
 keypadPressed = -1
 count = 0
 rcount = 0
@@ -329,7 +329,7 @@ while True:
                 time.sleep(1)
 
                 #얼굴인증 맞을시 도어락 오픈
-                if distance1 < 0.33 or distance2<0.33:
+                if distance1 < 0.33 or distance2 < 0.33:
                     lcd.lcd_clear()
                     lcd.lcd_display_string("Welcome",1)
                     time.sleep(1)
